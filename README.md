@@ -35,9 +35,3 @@ Hola, soy **Cesar Alberto**, un programador apasionado por construir soluciones 
 - Automatización y generación inteligente con IA
 
 ---
-
-## 📱 Promoción y alcance
-
-- Difusión de productos en redes sociales, especialmente en **TikTok**  
-- Desarrollo de plataformas interactivas para estudiantes y docentes  
-- Análisis y métricas sobre quizzes y rendimiento del usuario  
