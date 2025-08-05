@@ -9,6 +9,7 @@ Hola, soy **Cesar Alberto**, un programador apasionado por construir soluciones 
 - **Backend**:  
   - PHP (Laravel 11 + Livewire)  
   - Python (Flask)
+  - Node.js
 
 - **Frontend**:  
   - Vue 3 (Options API + Pinia)  
@@ -17,7 +18,7 @@ Hola, soy **Cesar Alberto**, un programador apasionado por construir soluciones 
 
 - **Base de datos**:  
   - MySQL  
-  - Supabase  
+  - Sql Server 
   - Eloquent ORM
 
 - **Aplicaciones de escritorio**:  
